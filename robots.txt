@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hm7111.github.io/manba/sitemap.xml
